@@ -18,4 +18,4 @@ Failing use-case:
 
 Result: average audio power could reach +25db instead of staying between [-160, 0].
 
-*Assertions are added to check the average & peak values.*
+*Assertions are added to check the [average](https://github.com/AdamStreet/recording-test/blob/master/RecorderTest/ASRecorder.m#L175) & [peak](https://github.com/AdamStreet/recording-test/blob/master/RecorderTest/ASRecorder.m#L176) values.*
